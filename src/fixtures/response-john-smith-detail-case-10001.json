@@ -1,0 +1,80 @@
+{
+  "data": {
+    "caseParties": [
+      {
+        "attorneys": [],
+        "casePartyId": "17174699",
+        "type": "Plaintiff",
+        "firstName": null,
+        "middleName": null,
+        "lastName": "VILLARREAL",
+        "nickName": null,
+        "businessName": null,
+        "fullName": "VILLARREAL",
+        "isDefendant": false
+      },
+      {
+        "attorneys": [],
+        "casePartyId": "17174700",
+        "type": "Defendant",
+        "firstName": null,
+        "middleName": null,
+        "lastName": "SUNSET OAKS",
+        "nickName": null,
+        "businessName": "SUNSET OAKS",
+        "fullName": "SUNSET OAKS",
+        "isDefendant": true
+      }
+    ],
+    "caseAttornies": [],
+    "caseEvents": [],
+    "caseHearings": [],
+    "caseOtherDocuments": [],
+    "caseCharges": [],
+    "caseFinancials": [],
+    "caseFinancialTransactions": [],
+    "caseArrestInfomation": [],
+    "casePartyDemographics": {
+      "race": null,
+      "sex": null,
+      "dateOfBirth": null,
+      "height": null,
+      "weight": null,
+      "hairColor": null,
+      "eyeColor": null
+    },
+    "casePartyAddress": {
+      "streetName": null,
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "casePartyIdentification": [],
+    "caseDocuments": [],
+    "minuteOrders": [],
+    "caseFlags": [],
+    "partyInJailFlags": [],
+    "caseBonds": [],
+    "caseWarrants": [],
+    "caseCrossReferenceNumbers": [],
+    "relatedCases": [],
+    "id": "10001",
+    "caseNumber": "2001-1-CV-800357",
+    "style": "VILLARREAL\nvs.\nSUNSET OAKS",
+    "caseCategory": 0,
+    "type": "Auto Unlimited (22)",
+    "typeId": "CV",
+    "fileDate": "8/1/2001",
+    "securityGroup": null,
+    "status": "Closed/Inactive",
+    "courtLocation": "Santa Clara",
+    "caseSubType": null,
+    "nodeId": 11110,
+    "permission": 0,
+    "isSecuredAccess": false,
+    "isCriminal": false
+  },
+  "result": 0,
+  "created": "2025-11-10T23:18:34.4883496Z",
+  "message": "Case number 10001 was found"
+}
